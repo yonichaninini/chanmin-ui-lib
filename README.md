@@ -12,14 +12,21 @@ It is important to write source code on a unified basis.
 
 # Naming Rule
 A. General Rules
+
 Names should be written in lowercase letters, numbers, and underscores (_).
+
 B. Start Name
+
 The name can only start with a lowercase letter.
+
 Note that the comment sentence accepts English capital letters. (E.g. / * AIDAT UI Love and ZeroCho 2020_486 * /)
 
 (ex. 2019chanmin(x) - > chanmin2019(o), _chanmin(x) -> chanmin(o), Chanmin(x) -> chanmin(o))
 
 C. Lowercase letters, numbers, and underscore combinations
-• Only lowercase letters, numbers and underscores (_) can be used.
-• Underscores (_) are used only for words and word combinations.
-• Promised words with underscores (_) can be used in combination with numbers and lowercase letters.
+
+Only lowercase letters, numbers and underscores (_) can be used
+
+Underscores (_) are used only for words and word combinations
+
+Promised words with underscores (_) can be used in combination with numbers and lowercase letters.
